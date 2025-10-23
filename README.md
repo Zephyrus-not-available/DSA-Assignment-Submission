@@ -17,7 +17,7 @@ This assignment submission contains three distinct C programs demonstrating vari
 
 ### 1. User Management System
 ### 2. XML Structure Validator
-### 3. Financial Management System
+### 3. Banking System
 
 ---
 
