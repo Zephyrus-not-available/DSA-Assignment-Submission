@@ -1,10 +1,10 @@
-# Financial Management System
+# Banking System
 
 A comprehensive banking system implemented in C using linked lists for efficient account and transaction management.
 
 ## Overview
 
-This Financial Management System provides a complete banking solution with account management, transaction processing, and operation history tracking. The system uses linked lists for dynamic memory management and supports multiple concurrent accounts.
+This Banking System provides a complete banking solution with account management, transaction processing, and operation history tracking. The system uses linked lists for dynamic memory management and supports multiple concurrent accounts.
 
 ## Features
 
@@ -205,5 +205,6 @@ Operation: TRANSFER_OUTGOING | Amount: $ -200.00 | Balance: $  300.00
 - User authentication
 - Graphical interface
 - Network connectivity
+
 
 This system demonstrates robust banking operations using fundamental data structures, providing a solid foundation for financial application development.
